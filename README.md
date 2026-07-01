@@ -1,4 +1,5 @@
-## 📸 Imagem Oficial da Campanha
+##  <img width="1427" height="736" alt="image" src="https://github.com/user-attachments/assets/4ab6211f-f2f9-4ee7-82bb-f68140ed9300" />
+
 
 
 ## Sobre o Projeto
