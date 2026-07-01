@@ -1,5 +1,5 @@
+## ![Enchentes de São Paulo](./caminho/para/sua/imagem.jpg) Imagem Oficial da Campanha
 
-![Enchentes de São Paulo](./caminho/para/sua/imagem.jpg)
 
 ## Sobre o Projeto
 
