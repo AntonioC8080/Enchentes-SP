@@ -1,4 +1,4 @@
-## ![Enchentes de São Paulo](./caminho/para/sua/imagem.jpg) Imagem Oficial da Campanha
+## 📸 Imagem Oficial da Campanha
 
 
 ## Sobre o Projeto
