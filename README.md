@@ -1,6 +1,4 @@
-![Enchentes de São Paulo](./caminho/para/sua/imagem.jpg)
-
-> *Substitua `./caminho/para/sua/imagem.jpg` pelo link ou caminho real onde o arquivo está salvo no seu repositório.*
+./caminho/para/sua/imagem.jpg`
 
 
 ## Sobre o Projeto
