@@ -1,4 +1,4 @@
-
+![Enchentes de São Paulo](./caminho/para/sua/imagem.jpg)
 
 ## Sobre o Projeto
 
