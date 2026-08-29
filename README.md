@@ -94,8 +94,10 @@ A base foi estruturada utilizando informações provenientes de órgãos e insti
 
 ### Principais colaboradores:
 
- lucas rio branco
+ Lucas Rio Branco
  
- Antonio carlos
+ Antonio carlos Pereira
+
+ Eduardo Santana
 
 <p align="right">(<a href="#readme-top">volta ao topo)
