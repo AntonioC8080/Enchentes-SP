@@ -92,6 +92,13 @@ A base foi estruturada utilizando informações provenientes de órgãos e insti
 - A base não substitui levantamentos oficiais atualizados realizados pela Prefeitura de São Paulo ou pela Defesa Civil.
 
 
+## Demostração do banco
+
+<img width="827" height="304" alt="Screenshot_4" src="https://github.com/user-attachments/assets/689e6c9b-822d-463b-a474-3c38ed624bb6" />
+
+
+
+
 ### Principais colaboradores:
 
  Lucas Rio Branco
